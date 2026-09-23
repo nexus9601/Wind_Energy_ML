@@ -1,0 +1,32 @@
+India Wind Potentional 150m Map wind atlas Data
+===============================================
+
+Open datasets published by the National Institute of Wind Energy (NIWE) for research, academic and industrial applications.
+
+About the Dataset
+=================
+
+The 150m Wind Resource Map provides an updated overview of India’s wind climatological conditions based on advanced numerical meso-micro coupled modelling. It enables users to assess wind resources at selected locations using parameters such as wind speed, Weibull parameters, wind power density, P50 annual generation and P50 CUF. The map also supports area-wise assessment of CUF and estimated installable capacity. The information is intended primarily for preliminary wind project prospecting and site assessment.
+
+Dataset Information
+====================
+Wind Monitoring Station Name 	India Wind Potentional 150m Map wind atlas Data
+Location 			India
+Measurement Period 		-
+File Name 			150m_Map_Data_A_to_G.csv 
+File Type 			CSV
+File Size 			836.64 MB 
+
+Attribute Description
+=======================
+Basic wind parameters for the country including its islands has been derived at 150m height with 500m resolution using advanced meso-micro coupled modelling / downscaling techniques. For each 500m grid point the following parameters have been derived.
+
+Mean Wind Speed (m/s)
+Weibull Shape factor – k
+Weibull Scale factor – A (m/s)
+Mean Wind Power Density (W/m2)
+Mean Temperature (0C)
+Mean Atmospheric Pressure (KPa)
+Mean Air Density (Kg/m3)
+Wind Direction
+Joint Frequency Distribution
